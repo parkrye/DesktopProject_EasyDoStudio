@@ -4,12 +4,12 @@ OBS 대신 쓰려고 만든 Windows 화면 녹화 · 영상 편집 프로그램�
 
 ## 다운로드
 
-최신 버전 0.2.0 — [Releases](https://github.com/parkrye/DesktopProject_EasyDoStudio/releases)에 exe 두 개가 있습니다. 하나만 받아 실행합니다. 설치 과정은 없습니다.
+최신 버전 0.2.1 — [Releases](https://github.com/parkrye/DesktopProject_EasyDoStudio/releases)에 exe 두 개가 있습니다. 하나만 받아 실행합니다. 설치 과정은 없습니다.
 
 | 파일 | 크기 | 조건 |
 |---|---|---|
-| `EasyDoStudio-0.2.0-standalone.exe` | 약 78MB | .NET 설치 없이 바로 실행 |
-| `EasyDoStudio-0.2.0.exe` | 약 28MB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) 필요 |
+| `EasyDoStudio-0.2.1-standalone.exe` | 약 78MB | .NET 설치 없이 바로 실행 |
+| `EasyDoStudio-0.2.1.exe` | 약 28MB | [.NET 9 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/9.0) 필요 |
 
 받은 파일은 Release 본문의 SHA-256으로 확인할 수 있습니다. 처음 실행할 때 Windows SmartScreen 경고가 뜰 수 있습니다 (`추가 정보 → 실행`). 새 버전은 앱 안 `설정 → 앱 정보 → 새 버전 받기`에서 받을 수 있습니다.
 
